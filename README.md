@@ -1,2 +1,2 @@
 # PlexSharp
-Onofficial Plex libraries and applications written by me
+Unofficial Plex libraries and applications written by me
